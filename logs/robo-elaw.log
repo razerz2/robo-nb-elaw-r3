@@ -1,0 +1,1683 @@
+2025-11-03 22:13:57,056 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 22:13:59,781 [INFO] 🚀 Login...
+2025-11-03 22:14:14,358 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 22:14:14,358 [INFO] 🆔 ID: 3611642
+2025-11-03 22:14:14,359 [INFO] ⬇️ Baixando relatório...
+2025-11-03 22:14:43,990 [INFO] ✅ Execução OK.
+2025-11-03 22:14:46,898 [INFO] ↩️ Logout executado com sucesso.
+2025-11-03 22:14:49,032 [INFO] 🧹 Navegador encerrado.
+2025-11-03 22:14:49,033 [INFO] ✅ Já executado hoje. Aguardando próximo dia útil 08:00...
+2025-11-03 22:17:55,079 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 22:17:57,686 [INFO] 🚀 Login...
+2025-11-03 22:18:12,244 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 22:18:12,244 [INFO] 🆔 ID: 3611642
+2025-11-03 22:18:12,244 [INFO] ⬇️ Baixando relatório...
+2025-11-03 22:18:36,565 [INFO] ✅ Execução OK.
+2025-11-03 22:18:39,520 [INFO] ↩️ Logout executado com sucesso.
+2025-11-03 22:18:41,624 [INFO] 🧹 Navegador encerrado.
+2025-11-03 22:18:41,625 [INFO] ✅ Já executado hoje. Aguardando próximo dia útil 08:00...
+2025-11-03 22:18:48,347 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 22:19:11,498 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 22:19:14,157 [INFO] 🚀 Login...
+2025-11-03 22:19:27,063 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 22:19:27,063 [INFO] 🆔 ID: 3611642
+2025-11-03 22:19:27,063 [INFO] ⬇️ Baixando relatório...
+2025-11-03 22:19:33,538 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 22:19:35,572 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 22:36:26,112 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 22:36:28,742 [INFO] 🚀 Login...
+2025-11-03 22:36:42,037 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 22:37:18,088 [INFO] 🆔 ID: True
+2025-11-03 22:37:18,088 [INFO] ⬇️ Baixando relatório...
+2025-11-03 22:37:36,219 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 22:37:52,469 [INFO] 🧹 Navegador encerrado.
+2025-11-03 22:37:52,479 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 22:39:25,157 [INFO] ⏳ Fora do horário, aguardando 30 minutos para checar novamente...
+2025-11-03 22:39:27,213 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 22:39:32,882 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 22:39:35,495 [INFO] 🚀 Login...
+2025-11-03 22:39:48,725 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 22:40:34,523 [INFO] 🆔 ID: True
+2025-11-03 22:40:34,523 [INFO] ⬇️ Baixando relatório...
+2025-11-03 22:40:45,039 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 22:41:01,290 [INFO] 🧹 Navegador encerrado.
+2025-11-03 22:41:01,290 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 22:41:44,305 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 22:41:46,931 [INFO] 🚀 Login...
+2025-11-03 22:42:01,420 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 22:42:44,241 [ERROR] ❌ Erro durante a execução: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x11efe43+66515]
+	GetHandleVerifier [0x0x11efe84+66580]
+	(No symbol) [0x0xfddc48]
+	(No symbol) [0x0x1028704]
+	(No symbol) [0x0x1028aab]
+	(No symbol) [0x0x106f482]
+	(No symbol) [0x0x104b214]
+	(No symbol) [0x0x106cba7]
+	(No symbol) [0x0x104afc6]
+	(No symbol) [0x0x101c2ca]
+	(No symbol) [0x0x101d154]
+	GetHandleVerifier [0x0x1447353+2521315]
+	GetHandleVerifier [0x0x14422d3+2500707]
+	GetHandleVerifier [0x0x1217c94+229924]
+	GetHandleVerifier [0x0x12081f8+165768]
+	GetHandleVerifier [0x0x120ecad+193085]
+	GetHandleVerifier [0x0x11f8158+100072]
+	GetHandleVerifier [0x0x11f82f0+100480]
+	GetHandleVerifier [0x0x11e25aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 117, in gerar_relatorio
+    btn = wait.until(EC.element_to_be_clickable((By.ID, "btnPesquisar")))
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x11efe43+66515]
+	GetHandleVerifier [0x0x11efe84+66580]
+	(No symbol) [0x0xfddc48]
+	(No symbol) [0x0x1028704]
+	(No symbol) [0x0x1028aab]
+	(No symbol) [0x0x106f482]
+	(No symbol) [0x0x104b214]
+	(No symbol) [0x0x106cba7]
+	(No symbol) [0x0x104afc6]
+	(No symbol) [0x0x101c2ca]
+	(No symbol) [0x0x101d154]
+	GetHandleVerifier [0x0x1447353+2521315]
+	GetHandleVerifier [0x0x14422d3+2500707]
+	GetHandleVerifier [0x0x1217c94+229924]
+	GetHandleVerifier [0x0x12081f8+165768]
+	GetHandleVerifier [0x0x120ecad+193085]
+	GetHandleVerifier [0x0x11f8158+100072]
+	GetHandleVerifier [0x0x11f82f0+100480]
+	GetHandleVerifier [0x0x11e25aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+2025-11-03 22:42:47,452 [INFO] ↩️ Logout executado com sucesso.
+2025-11-03 22:42:49,563 [INFO] 🧹 Navegador encerrado.
+2025-11-03 22:42:49,564 [ERROR] ❌ Erro na execução principal: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x11efe43+66515]
+	GetHandleVerifier [0x0x11efe84+66580]
+	(No symbol) [0x0xfddc48]
+	(No symbol) [0x0x1028704]
+	(No symbol) [0x0x1028aab]
+	(No symbol) [0x0x106f482]
+	(No symbol) [0x0x104b214]
+	(No symbol) [0x0x106cba7]
+	(No symbol) [0x0x104afc6]
+	(No symbol) [0x0x101c2ca]
+	(No symbol) [0x0x101d154]
+	GetHandleVerifier [0x0x1447353+2521315]
+	GetHandleVerifier [0x0x14422d3+2500707]
+	GetHandleVerifier [0x0x1217c94+229924]
+	GetHandleVerifier [0x0x12081f8+165768]
+	GetHandleVerifier [0x0x120ecad+193085]
+	GetHandleVerifier [0x0x11f8158+100072]
+	GetHandleVerifier [0x0x11f82f0+100480]
+	GetHandleVerifier [0x0x11e25aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 109, in main
+    run_once()
+    ~~~~~~~~^^
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 117, in gerar_relatorio
+    btn = wait.until(EC.element_to_be_clickable((By.ID, "btnPesquisar")))
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x11efe43+66515]
+	GetHandleVerifier [0x0x11efe84+66580]
+	(No symbol) [0x0xfddc48]
+	(No symbol) [0x0x1028704]
+	(No symbol) [0x0x1028aab]
+	(No symbol) [0x0x106f482]
+	(No symbol) [0x0x104b214]
+	(No symbol) [0x0x106cba7]
+	(No symbol) [0x0x104afc6]
+	(No symbol) [0x0x101c2ca]
+	(No symbol) [0x0x101d154]
+	GetHandleVerifier [0x0x1447353+2521315]
+	GetHandleVerifier [0x0x14422d3+2500707]
+	GetHandleVerifier [0x0x1217c94+229924]
+	GetHandleVerifier [0x0x12081f8+165768]
+	GetHandleVerifier [0x0x120ecad+193085]
+	GetHandleVerifier [0x0x11f8158+100072]
+	GetHandleVerifier [0x0x11f82f0+100480]
+	GetHandleVerifier [0x0x11e25aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+2025-11-03 22:42:49,566 [INFO] 🕒 Tentará novamente em 5 minutos...
+2025-11-03 22:45:58,293 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 22:46:04,804 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 22:46:07,430 [INFO] 🚀 Login...
+2025-11-03 22:46:20,212 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 22:46:56,269 [INFO] 🆔 ID: True
+2025-11-03 22:46:56,269 [INFO] ⬇️ Baixando relatório...
+2025-11-03 22:47:01,731 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 22:47:03,759 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 22:53:19,690 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 22:53:22,387 [INFO] 🚀 Login...
+2025-11-03 22:53:35,618 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 22:56:21,398 [WARNING] ⚠️ Falha ao realizar logout: HTTPConnectionPool(host='localhost', port=56080): Max retries exceeded with url: /session/f9bc35f0fe44084b6550b79b36464b74/url (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019A1B87FE30>: Failed to establish a new connection: [WinError 10061] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente'))
+2025-11-03 22:56:37,593 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:00:38,211 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 23:00:40,828 [INFO] 🚀 Login...
+2025-11-03 23:00:55,347 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 23:01:43,407 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 23:01:59,626 [INFO] 🧹 Navegador encerrado.
+2025-11-03 23:01:59,627 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:05:41,683 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 23:05:44,386 [INFO] 🚀 Login...
+2025-11-03 23:05:56,006 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 23:07:44,079 [INFO] 🆔 ID: True
+2025-11-03 23:07:44,079 [INFO] ⬇️ Baixando relatório...
+2025-11-03 23:09:54,435 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 23:09:58,549 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:10:08,278 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 23:10:10,898 [INFO] 🚀 Login...
+2025-11-03 23:10:24,362 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 23:11:17,312 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:12:47,722 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 23:12:50,341 [INFO] 🚀 Login...
+2025-11-03 23:13:01,621 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 23:13:33,739 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 23:13:37,813 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:15:33,974 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:15:39,314 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 23:15:41,981 [INFO] 🚀 Login...
+2025-11-03 23:15:55,594 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 23:17:26,524 [INFO] 🆔 ID: True
+2025-11-03 23:17:26,524 [INFO] ⬇️ Baixando relatório...
+2025-11-03 23:21:19,299 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 23:21:23,383 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:21:28,568 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 23:21:31,173 [INFO] 🚀 Login...
+2025-11-03 23:21:44,530 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 23:23:12,626 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 23:23:16,690 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:23:25,458 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 23:23:28,124 [INFO] 🚀 Login...
+2025-11-03 23:23:43,781 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 23:24:41,558 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 23:24:43,594 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:24:55,659 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 23:24:58,338 [INFO] 🚀 Login...
+2025-11-03 23:25:12,330 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 23:26:43,296 [INFO] 🆔 ID: True
+2025-11-03 23:26:43,297 [INFO] ⬇️ Baixando relatório...
+2025-11-03 23:30:01,826 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 23:30:03,861 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:30:09,814 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 23:30:12,462 [INFO] 🚀 Login...
+2025-11-03 23:30:25,756 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 23:31:30,783 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 23:31:32,813 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:31:46,868 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 23:31:49,528 [INFO] 🚀 Login...
+2025-11-03 23:32:03,125 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 23:32:25,447 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 23:32:27,477 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:33:12,502 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 23:33:15,125 [INFO] 🚀 Login...
+2025-11-03 23:33:28,135 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 23:34:24,749 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 23:34:28,811 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:36:33,475 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 23:36:36,136 [INFO] 🚀 Login...
+2025-11-03 23:36:49,054 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 23:38:02,865 [INFO] 🆔 ID: True
+2025-11-03 23:38:02,865 [INFO] ⬇️ Baixando relatório...
+2025-11-03 23:42:24,800 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 23:42:26,814 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:42:33,793 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 23:42:36,524 [INFO] 🚀 Login...
+2025-11-03 23:42:51,761 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 23:44:48,363 [INFO] 🆔 ID: True
+2025-11-03 23:44:48,364 [INFO] ⬇️ Baixando relatório...
+2025-11-03 23:45:44,944 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 23:45:46,970 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:45:51,924 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 23:45:54,522 [INFO] 🚀 Login...
+2025-11-03 23:46:07,551 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 23:47:12,246 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 23:47:28,517 [INFO] 🧹 Navegador encerrado.
+2025-11-03 23:47:28,518 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:50:16,031 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 23:50:18,664 [INFO] 🚀 Login...
+2025-11-03 23:50:32,099 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 23:52:30,078 [INFO] 🆔 ID: True
+2025-11-03 23:52:30,078 [INFO] ⬇️ Baixando relatório...
+2025-11-03 23:54:25,264 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 23:54:27,302 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:55:33,391 [INFO] ⏳ Fora do horário, aguardando 30 minutos para checar novamente...
+2025-11-03 23:55:38,400 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:55:42,606 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 23:55:45,257 [INFO] 🚀 Login...
+2025-11-03 23:55:59,275 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 23:56:26,256 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 23:56:42,501 [INFO] 🧹 Navegador encerrado.
+2025-11-03 23:56:42,502 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-03 23:58:11,081 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-03 23:58:13,774 [INFO] 🚀 Login...
+2025-11-03 23:58:26,661 [INFO] 🧾 Gerando relatório de processos...
+2025-11-03 23:59:18,207 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-03 23:59:20,235 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-04 00:04:45,174 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-04 00:04:52,953 [INFO] 🚀 Login...
+2025-11-04 00:05:07,964 [INFO] 🧾 Gerando relatório de processos...
+2025-11-04 00:06:55,905 [INFO] 🆔 ID: True
+2025-11-04 00:06:55,906 [INFO] ⬇️ Baixando relatório...
+2025-11-04 00:07:07,705 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-04 00:07:09,735 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-04 00:13:33,346 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-04 00:13:35,993 [INFO] 🚀 Login...
+2025-11-04 00:13:49,684 [INFO] 🧾 Gerando relatório de processos...
+2025-11-04 00:15:44,528 [INFO] 🆔 ID: True
+2025-11-04 00:15:44,529 [INFO] ⬇️ Baixando relatório...
+2025-11-04 00:15:49,977 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-04 00:15:57,677 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-04 00:16:00,291 [INFO] 🚀 Login...
+2025-11-04 00:16:13,438 [INFO] 🧾 Gerando relatório de processos...
+2025-11-04 00:16:53,070 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-04 00:17:09,260 [INFO] 🧹 Navegador encerrado.
+2025-11-04 00:17:09,261 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-04 00:22:09,674 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-04 00:22:12,336 [INFO] 🚀 Login...
+2025-11-04 00:22:25,995 [INFO] 🧾 Gerando relatório de processos...
+2025-11-04 00:23:11,330 [INFO] 🆔 ID: True
+2025-11-04 00:23:11,330 [INFO] ⬇️ Baixando relatório...
+2025-11-04 00:27:59,009 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-04 00:28:01,048 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-04 00:28:07,902 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-04 00:28:10,540 [INFO] 🚀 Login...
+2025-11-04 00:28:25,096 [INFO] 🧾 Gerando relatório de processos...
+2025-11-04 00:29:18,683 [INFO] 🆔 ID: True
+2025-11-04 00:29:18,683 [INFO] ⬇️ Baixando relatório...
+2025-11-04 00:29:31,737 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-04 00:31:23,438 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-04 00:31:26,134 [INFO] 🚀 Login...
+2025-11-04 00:31:39,505 [INFO] 🧾 Gerando relatório de processos...
+2025-11-04 00:32:15,060 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-04 00:32:31,360 [INFO] 🧹 Navegador encerrado.
+2025-11-04 00:32:31,361 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-04 00:46:06,904 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-04 00:46:09,600 [INFO] 🚀 Login...
+2025-11-04 00:46:25,805 [INFO] 🧾 Gerando relatório de processos...
+2025-11-04 00:50:18,672 [ERROR] ❌ Erro durante a execução: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 249, in gerar_relatorio
+    _abrir_dialog_excel(driver, wait)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 18, in _abrir_dialog_excel
+    wait.until(EC.visibility_of_element_located((By.ID, "btnExcel_dlg")))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+2025-11-04 00:50:21,933 [INFO] ↩️ Logout executado com sucesso.
+2025-11-04 00:50:24,065 [INFO] 🧹 Navegador encerrado.
+2025-11-04 00:50:24,065 [ERROR] ❌ Erro na execução principal: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 109, in main
+    run_once()
+    ~~~~~~~~^^
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 249, in gerar_relatorio
+    _abrir_dialog_excel(driver, wait)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 18, in _abrir_dialog_excel
+    wait.until(EC.visibility_of_element_located((By.ID, "btnExcel_dlg")))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+2025-11-04 00:50:24,068 [INFO] 🕒 Tentará novamente em 5 minutos...
+2025-11-04 00:50:35,427 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-04 00:50:49,905 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-04 00:50:52,541 [INFO] 🚀 Login...
+2025-11-04 00:51:03,970 [INFO] 🧾 Gerando relatório de processos...
+2025-11-04 00:54:57,045 [ERROR] ❌ Erro durante a execução: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 249, in gerar_relatorio
+    _abrir_dialog_excel(driver, wait)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 18, in _abrir_dialog_excel
+    wait.until(EC.visibility_of_element_located((By.ID, "btnExcel_dlg")))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+2025-11-04 00:55:00,324 [INFO] ↩️ Logout executado com sucesso.
+2025-11-04 00:55:02,487 [INFO] 🧹 Navegador encerrado.
+2025-11-04 00:55:02,488 [ERROR] ❌ Erro na execução principal: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 109, in main
+    run_once()
+    ~~~~~~~~^^
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 249, in gerar_relatorio
+    _abrir_dialog_excel(driver, wait)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 18, in _abrir_dialog_excel
+    wait.until(EC.visibility_of_element_located((By.ID, "btnExcel_dlg")))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+2025-11-04 00:55:02,491 [INFO] 🕒 Tentará novamente em 5 minutos...
+2025-11-04 01:06:15,148 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-04 01:06:22,362 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-04 01:06:25,071 [INFO] 🚀 Login...
+2025-11-04 01:06:38,123 [INFO] 🧾 Gerando relatório de processos...
+2025-11-04 01:10:31,709 [ERROR] ❌ Erro durante a execução: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 250, in gerar_relatorio
+    _abrir_dialog_excel(driver, wait)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 18, in _abrir_dialog_excel
+    wait.until(EC.visibility_of_element_located((By.ID, "btnExcel_dlg")))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+2025-11-04 01:10:34,963 [INFO] ↩️ Logout executado com sucesso.
+2025-11-04 01:10:37,111 [INFO] 🧹 Navegador encerrado.
+2025-11-04 01:10:37,112 [ERROR] ❌ Erro na execução principal: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 109, in main
+    run_once()
+    ~~~~~~~~^^
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 250, in gerar_relatorio
+    _abrir_dialog_excel(driver, wait)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 18, in _abrir_dialog_excel
+    wait.until(EC.visibility_of_element_located((By.ID, "btnExcel_dlg")))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+2025-11-04 01:10:37,114 [INFO] 🕒 Tentará novamente em 5 minutos...
+2025-11-04 01:10:38,780 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-04 01:11:41,280 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-04 01:11:43,930 [INFO] 🚀 Login...
+2025-11-04 01:11:56,715 [INFO] 🧾 Gerando relatório de processos...
+2025-11-04 01:15:50,548 [ERROR] ❌ Erro durante a execução: ❌ Falha ao abrir diálogo Excel: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 22, in _abrir_dialog_excel
+    wait.until(EC.visibility_of_element_located((By.ID, "btnExcel_dlg")))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 261, in gerar_relatorio
+    _abrir_dialog_excel(driver, wait)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 27, in _abrir_dialog_excel
+    raise Exception(f"❌ Falha ao abrir diálogo Excel: {e}")
+Exception: ❌ Falha ao abrir diálogo Excel: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+2025-11-04 01:15:53,829 [INFO] ↩️ Logout executado com sucesso.
+2025-11-04 01:15:55,968 [INFO] 🧹 Navegador encerrado.
+2025-11-04 01:15:55,969 [ERROR] ❌ Erro na execução principal: ❌ Falha ao abrir diálogo Excel: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 22, in _abrir_dialog_excel
+    wait.until(EC.visibility_of_element_located((By.ID, "btnExcel_dlg")))
+    ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 109, in main
+    run_once()
+    ~~~~~~~~^^
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 261, in gerar_relatorio
+    _abrir_dialog_excel(driver, wait)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 27, in _abrir_dialog_excel
+    raise Exception(f"❌ Falha ao abrir diálogo Excel: {e}")
+Exception: ❌ Falha ao abrir diálogo Excel: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+2025-11-04 01:15:55,972 [INFO] 🕒 Tentará novamente em 5 minutos...
+2025-11-04 01:15:59,958 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-04 01:24:43,048 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-04 01:24:45,745 [INFO] 🚀 Login...
+2025-11-04 01:24:59,505 [INFO] 🧾 Gerando relatório de processos...
+2025-11-04 01:30:24,163 [ERROR] ❌ Erro durante a execução: ❌ Falha ao abrir diálogo Excel: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 64, in _abrir_dialog_excel
+    btn_excel = wait.until(EC.element_to_be_clickable((By.ID, "btnExcel")))
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 310, in gerar_relatorio
+    _abrir_dialog_excel(driver, wait)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 76, in _abrir_dialog_excel
+    raise Exception(f"❌ Falha ao abrir diálogo Excel: {e}")
+Exception: ❌ Falha ao abrir diálogo Excel: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+2025-11-04 01:30:27,189 [INFO] ↩️ Logout executado com sucesso.
+2025-11-04 01:30:29,330 [INFO] 🧹 Navegador encerrado.
+2025-11-04 01:30:29,331 [ERROR] ❌ Erro na execução principal: ❌ Falha ao abrir diálogo Excel: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 64, in _abrir_dialog_excel
+    btn_excel = wait.until(EC.element_to_be_clickable((By.ID, "btnExcel")))
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 109, in main
+    run_once()
+    ~~~~~~~~^^
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 310, in gerar_relatorio
+    _abrir_dialog_excel(driver, wait)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 76, in _abrir_dialog_excel
+    raise Exception(f"❌ Falha ao abrir diálogo Excel: {e}")
+Exception: ❌ Falha ao abrir diálogo Excel: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfdc48]
+	(No symbol) [0x0xd48704]
+	(No symbol) [0x0xd48aab]
+	(No symbol) [0x0xd8f482]
+	(No symbol) [0x0xd6b214]
+	(No symbol) [0x0xd8cba7]
+	(No symbol) [0x0xd6afc6]
+	(No symbol) [0x0xd3c2ca]
+	(No symbol) [0x0xd3d154]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	GetHandleVerifier [0x0xf18158+100072]
+	GetHandleVerifier [0x0xf182f0+100480]
+	GetHandleVerifier [0x0xf025aa+11066]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+2025-11-04 01:30:29,334 [INFO] 🕒 Tentará novamente em 5 minutos...
+2025-11-04 01:30:44,166 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-04 01:32:00,441 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-04 01:32:03,062 [INFO] 🚀 Login...
+2025-11-04 01:32:16,177 [INFO] 🧾 Gerando relatório de processos...
+2025-11-04 01:34:49,149 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-04 01:35:05,423 [INFO] 🧹 Navegador encerrado.
+2025-11-04 01:35:05,424 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-04 01:38:41,917 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-04 01:38:44,611 [INFO] 🚀 Login...
+2025-11-04 01:38:58,899 [INFO] 🧾 Gerando relatório de processos...
+2025-11-04 01:45:49,287 [ERROR] ❌ Erro durante a execução: HTTPConnectionPool(host='localhost', port=55018): Read timed out. (read timeout=120)
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\rafsn\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 1430, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\rafsn\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\rafsn\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\rafsn\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 301, in gerar_relatorio
+    driver.refresh()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 728, in refresh
+    self.execute(Command.REFRESH)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 455, in execute
+    response = cast(RemoteConnection, self.command_executor).execute(driver_command, params)
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 407, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 431, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\poolmanager.py", line 459, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='localhost', port=55018): Read timed out. (read timeout=120)
+2025-11-04 01:46:00,785 [INFO] ↩️ Logout executado com sucesso.
+2025-11-04 01:46:02,957 [INFO] 🧹 Navegador encerrado.
+2025-11-04 01:46:02,957 [ERROR] ❌ Erro na execução principal: HTTPConnectionPool(host='localhost', port=55018): Read timed out. (read timeout=120)
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\connectionpool.py", line 534, in _make_request
+    response = conn.getresponse()
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\connection.py", line 565, in getresponse
+    httplib_response = super().getresponse()
+  File "C:\Users\rafsn\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 1430, in getresponse
+    response.begin()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Users\rafsn\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\rafsn\AppData\Local\Programs\Python\Python313\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\rafsn\AppData\Local\Programs\Python\Python313\Lib\socket.py", line 719, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+TimeoutError: timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 109, in main
+    run_once()
+    ~~~~~~~~^^
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 301, in gerar_relatorio
+    driver.refresh()
+    ~~~~~~~~~~~~~~^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 728, in refresh
+    self.execute(Command.REFRESH)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 455, in execute
+    response = cast(RemoteConnection, self.command_executor).execute(driver_command, params)
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 407, in execute
+    return self._request(command_info[0], url, body=data)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 431, in _request
+    response = self._conn.request(method, url, body=body, headers=headers, timeout=self._client_config.timeout)
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\_request_methods.py", line 143, in request
+    return self.request_encode_body(
+           ~~~~~~~~~~~~~~~~~~~~~~~~^
+        method, url, fields=fields, headers=headers, **urlopen_kw
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\_request_methods.py", line 278, in request_encode_body
+    return self.urlopen(method, url, **extra_kw)
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\poolmanager.py", line 459, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\util\retry.py", line 474, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\util\util.py", line 39, in reraise
+    raise value
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+        conn,
+    ...<10 lines>...
+        **response_kw,
+    )
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\connectionpool.py", line 536, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\urllib3\connectionpool.py", line 367, in _raise_timeout
+    raise ReadTimeoutError(
+        self, url, f"Read timed out. (read timeout={timeout_value})"
+    ) from err
+urllib3.exceptions.ReadTimeoutError: HTTPConnectionPool(host='localhost', port=55018): Read timed out. (read timeout=120)
+2025-11-04 01:46:02,961 [INFO] 🕒 Tentará novamente em 5 minutos...
+2025-11-04 01:46:47,843 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-04 01:51:02,083 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-04 01:51:04,791 [INFO] 🚀 Login...
+2025-11-04 01:51:19,432 [INFO] 🧾 Gerando relatório de processos...
+2025-11-04 02:02:55,610 [ERROR] ❌ Erro durante a execução: ❌ Não foi possível atualizar a página após várias tentativas.
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 301, in gerar_relatorio
+    _safe_refresh(driver)
+    ~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 371, in _safe_refresh
+    raise Exception("❌ Não foi possível atualizar a página após várias tentativas.")
+Exception: ❌ Não foi possível atualizar a página após várias tentativas.
+2025-11-04 02:02:58,691 [INFO] ↩️ Logout executado com sucesso.
+2025-11-04 02:03:00,892 [INFO] 🧹 Navegador encerrado.
+2025-11-04 02:03:00,893 [ERROR] ❌ Erro na execução principal: ❌ Não foi possível atualizar a página após várias tentativas.
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 109, in main
+    run_once()
+    ~~~~~~~~^^
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 301, in gerar_relatorio
+    _safe_refresh(driver)
+    ~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 371, in _safe_refresh
+    raise Exception("❌ Não foi possível atualizar a página após várias tentativas.")
+Exception: ❌ Não foi possível atualizar a página após várias tentativas.
+2025-11-04 02:03:00,894 [INFO] 🕒 Tentará novamente em 5 minutos...
+2025-11-04 02:04:10,458 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-04 02:06:14,304 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-04 02:06:16,940 [INFO] 🚀 Login...
+2025-11-04 02:06:30,295 [INFO] 🧾 Gerando relatório de processos...
+2025-11-04 02:09:02,300 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-04 02:09:04,327 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-04 02:09:16,920 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-04 02:09:19,615 [INFO] 🚀 Login...
+2025-11-04 02:09:32,162 [INFO] 🧾 Gerando relatório de processos...
+2025-11-04 02:11:17,018 [ERROR] ❌ Erro durante a execução: ❌ Falha ao abrir diálogo Excel: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfda6b]
+	(No symbol) [0x0xd3b5ab]
+	(No symbol) [0x0xd6b086]
+	(No symbol) [0x0xd6667c]
+	(No symbol) [0x0xd65bf3]
+	(No symbol) [0x0xcce72d]
+	(No symbol) [0x0xccecae]
+	(No symbol) [0x0xccf14d]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	(No symbol) [0x0xcce3e3]
+	(No symbol) [0x0xccdb60]
+	GetHandleVerifier [0x0x12ac20f+3852191]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 19, in _abrir_dialog_excel
+    btn_excel = WebDriverWait(driver, 120).until(
+        EC.element_to_be_clickable((By.ID, "btnExcel"))
+    )
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\support\wait.py", line 129, in until
+    value = method(self._driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 624, in _predicate
+    target = driver.find_element(*target)  # grab element at locator
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 926, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 458, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 233, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfda6b]
+	(No symbol) [0x0xd3b5ab]
+	(No symbol) [0x0xd6b086]
+	(No symbol) [0x0xd6667c]
+	(No symbol) [0x0xd65bf3]
+	(No symbol) [0x0xcce72d]
+	(No symbol) [0x0xccecae]
+	(No symbol) [0x0xccf14d]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	(No symbol) [0x0xcce3e3]
+	(No symbol) [0x0xccdb60]
+	GetHandleVerifier [0x0x12ac20f+3852191]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-revisado\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 293, in gerar_relatorio
+    _abrir_dialog_excel(driver, wait)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-revisado\services\reports_iniciais.py", line 60, in _abrir_dialog_excel
+    raise Exception(f"❌ Falha ao abrir diálogo Excel: {e}")
+Exception: ❌ Falha ao abrir diálogo Excel: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfda6b]
+	(No symbol) [0x0xd3b5ab]
+	(No symbol) [0x0xd6b086]
+	(No symbol) [0x0xd6667c]
+	(No symbol) [0x0xd65bf3]
+	(No symbol) [0x0xcce72d]
+	(No symbol) [0x0xccecae]
+	(No symbol) [0x0xccf14d]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	(No symbol) [0x0xcce3e3]
+	(No symbol) [0x0xccdb60]
+	GetHandleVerifier [0x0x12ac20f+3852191]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+2025-11-04 02:11:17,023 [WARNING] ⚠️ Falha ao realizar logout: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	GetHandleVerifier [0x0xf0fe43+66515]
+	GetHandleVerifier [0x0xf0fe84+66580]
+	(No symbol) [0x0xcfda6b]
+	(No symbol) [0x0xd3b5ab]
+	(No symbol) [0x0xd6b086]
+	(No symbol) [0x0xd6667c]
+	(No symbol) [0x0xd65bf3]
+	(No symbol) [0x0xcce72d]
+	(No symbol) [0x0xccecae]
+	(No symbol) [0x0xccf14d]
+	GetHandleVerifier [0x0x1167353+2521315]
+	GetHandleVerifier [0x0x11622d3+2500707]
+	GetHandleVerifier [0x0xf37c94+229924]
+	GetHandleVerifier [0x0xf281f8+165768]
+	GetHandleVerifier [0x0xf2ecad+193085]
+	(No symbol) [0x0xcce3e3]
+	(No symbol) [0x0xccdb60]
+	GetHandleVerifier [0x0x12ac20f+3852191]
+	BaseThreadInitThunk [0x0x75a65d49+25]
+	RtlInitializeExceptionChain [0x0x7716d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7716d661+561]
+
+2025-11-04 02:11:19,047 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-04 02:11:24,565 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-04 02:11:27,229 [INFO] 🚀 Login...
+2025-11-04 02:11:39,845 [INFO] 🧾 Gerando relatório de processos...
+2025-11-04 02:16:31,243 [INFO] 🆔 ID: 3611645
+2025-11-04 02:16:31,243 [INFO] ⬇️ Baixando relatório...
+2025-11-04 02:43:15,020 [INFO] ✅ Execução OK.
+2025-11-04 02:43:18,079 [INFO] ↩️ Logout executado com sucesso.
+2025-11-04 02:43:20,282 [INFO] 🧹 Navegador encerrado.
+2025-11-04 02:43:20,283 [INFO] ✅ Já executado hoje. Aguardando próximo dia útil 08:00...
+2025-11-11 22:52:02,807 [INFO] ⏳ Fora do horário, aguardando 30 minutos para checar novamente...
+2025-11-11 22:52:41,134 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-11 22:52:50,535 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-11 22:52:59,508 [INFO] 🚀 Login...
+2025-11-11 22:53:13,158 [INFO] 🧾 Gerando relatório de processos...
+2025-11-11 22:53:23,168 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-11 22:53:25,191 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-11 23:02:43,249 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-11 23:02:45,944 [INFO] 🚀 Login...
+2025-11-11 23:02:59,693 [INFO] 🧾 Gerando relatório de processos...
+2025-11-11 23:03:42,233 [ERROR] ❌ Erro durante a execução: ❌ Falha ao abrir diálogo Excel: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1164093
+	0x11640d4
+	0xf6e56b
+	0xface58
+	0xfdc7c6
+	0xfd8030
+	0xfd7563
+	0xf3e4dd
+	0xf3ea6e
+	0xf3ef3d
+	0x13d5744
+	0x13d091a
+	0x118c322
+	0x117c458
+	0x11831dd
+	0xf3e193
+	0xf3d848
+	0x152b05f
+	0x76705d49
+	0x773fd6db
+	0x773fd661
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-r3\services\reports_iniciais.py", line 19, in _abrir_dialog_excel
+    btn_excel = WebDriverWait(driver, 120).until(
+        EC.element_to_be_clickable((By.ID, "btnExcel"))
+    )
+  File "C:\Projetos\robo-nb-elaw-r3\Lib\site-packages\selenium\webdriver\support\wait.py", line 129, in until
+    value = method(self._driver)
+  File "C:\Projetos\robo-nb-elaw-r3\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 624, in _predicate
+    target = driver.find_element(*target)  # grab element at locator
+  File "C:\Projetos\robo-nb-elaw-r3\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 926, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-r3\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 458, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-r3\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 233, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1164093
+	0x11640d4
+	0xf6e56b
+	0xface58
+	0xfdc7c6
+	0xfd8030
+	0xfd7563
+	0xf3e4dd
+	0xf3ea6e
+	0xf3ef3d
+	0x13d5744
+	0x13d091a
+	0x118c322
+	0x117c458
+	0x11831dd
+	0xf3e193
+	0xf3d848
+	0x152b05f
+	0x76705d49
+	0x773fd6db
+	0x773fd661
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-r3\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-r3\services\reports_iniciais.py", line 294, in gerar_relatorio
+    _abrir_dialog_excel(driver, wait)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-r3\services\reports_iniciais.py", line 60, in _abrir_dialog_excel
+    raise Exception(f"❌ Falha ao abrir diálogo Excel: {e}")
+Exception: ❌ Falha ao abrir diálogo Excel: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1164093
+	0x11640d4
+	0xf6e56b
+	0xface58
+	0xfdc7c6
+	0xfd8030
+	0xfd7563
+	0xf3e4dd
+	0xf3ea6e
+	0xf3ef3d
+	0x13d5744
+	0x13d091a
+	0x118c322
+	0x117c458
+	0x11831dd
+	0xf3e193
+	0xf3d848
+	0x152b05f
+	0x76705d49
+	0x773fd6db
+	0x773fd661
+
+2025-11-11 23:03:42,248 [WARNING] ⚠️ Falha ao realizar logout: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1164093
+	0x11640d4
+	0xf6e56b
+	0xface58
+	0xfdc7c6
+	0xfd8030
+	0xfd7563
+	0xf3e4dd
+	0xf3ea6e
+	0xf3ef3d
+	0x13d5744
+	0x13d091a
+	0x118c322
+	0x117c458
+	0x11831dd
+	0xf3e193
+	0xf3d848
+	0x152b05f
+	0x76705d49
+	0x773fd6db
+	0x773fd661
+
+2025-11-11 23:03:44,292 [INFO] 🧹 Navegador encerrado.
+2025-11-11 23:03:44,293 [ERROR] ❌ Erro na execução principal: ❌ Falha ao abrir diálogo Excel: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1164093
+	0x11640d4
+	0xf6e56b
+	0xface58
+	0xfdc7c6
+	0xfd8030
+	0xfd7563
+	0xf3e4dd
+	0xf3ea6e
+	0xf3ef3d
+	0x13d5744
+	0x13d091a
+	0x118c322
+	0x117c458
+	0x11831dd
+	0xf3e193
+	0xf3d848
+	0x152b05f
+	0x76705d49
+	0x773fd6db
+	0x773fd661
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-r3\services\reports_iniciais.py", line 19, in _abrir_dialog_excel
+    btn_excel = WebDriverWait(driver, 120).until(
+        EC.element_to_be_clickable((By.ID, "btnExcel"))
+    )
+  File "C:\Projetos\robo-nb-elaw-r3\Lib\site-packages\selenium\webdriver\support\wait.py", line 129, in until
+    value = method(self._driver)
+  File "C:\Projetos\robo-nb-elaw-r3\Lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 624, in _predicate
+    target = driver.find_element(*target)  # grab element at locator
+  File "C:\Projetos\robo-nb-elaw-r3\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 926, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-r3\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 458, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-r3\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 233, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1164093
+	0x11640d4
+	0xf6e56b
+	0xface58
+	0xfdc7c6
+	0xfd8030
+	0xfd7563
+	0xf3e4dd
+	0xf3ea6e
+	0xf3ef3d
+	0x13d5744
+	0x13d091a
+	0x118c322
+	0x117c458
+	0x11831dd
+	0xf3e193
+	0xf3d848
+	0x152b05f
+	0x76705d49
+	0x773fd6db
+	0x773fd661
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-r3\main.py", line 109, in main
+    run_once()
+    ~~~~~~~~^^
+  File "C:\Projetos\robo-nb-elaw-r3\main.py", line 48, in run_once
+    relatorio_id = gerar_relatorio(driver)
+  File "C:\Projetos\robo-nb-elaw-r3\services\reports_iniciais.py", line 294, in gerar_relatorio
+    _abrir_dialog_excel(driver, wait)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Projetos\robo-nb-elaw-r3\services\reports_iniciais.py", line 60, in _abrir_dialog_excel
+    raise Exception(f"❌ Falha ao abrir diálogo Excel: {e}")
+Exception: ❌ Falha ao abrir diálogo Excel: Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1164093
+	0x11640d4
+	0xf6e56b
+	0xface58
+	0xfdc7c6
+	0xfd8030
+	0xfd7563
+	0xf3e4dd
+	0xf3ea6e
+	0xf3ef3d
+	0x13d5744
+	0x13d091a
+	0x118c322
+	0x117c458
+	0x11831dd
+	0xf3e193
+	0xf3d848
+	0x152b05f
+	0x76705d49
+	0x773fd6db
+	0x773fd661
+
+2025-11-11 23:03:44,296 [INFO] 🕒 Tentará novamente em 5 minutos...
+2025-11-11 23:03:46,549 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-11 23:04:22,360 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-11 23:04:24,982 [INFO] 🚀 Login...
+2025-11-11 23:04:39,413 [INFO] 🧾 Gerando relatório de processos...
+2025-11-11 23:06:39,816 [WARNING] ⚠️ Falha ao realizar logout: ('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))
+2025-11-11 23:06:41,832 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-11 23:09:47,439 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-11 23:09:50,093 [INFO] 🚀 Login...
+2025-11-11 23:10:05,652 [INFO] 🧾 Gerando relatório de processos...
+2025-11-11 23:12:14,348 [INFO] 🆔 ID: 3612607
+2025-11-11 23:12:14,349 [INFO] ⬇️ Baixando relatório...
+2025-11-11 23:17:55,926 [INFO] ✅ Execução OK.
+2025-11-11 23:17:59,191 [INFO] ↩️ Logout executado com sucesso.
+2025-11-11 23:18:01,326 [INFO] 🧹 Navegador encerrado.
+2025-11-11 23:18:01,327 [INFO] ✅ Já executado hoje. Aguardando próximo dia útil 08:00...
+2025-11-11 23:18:18,242 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...

@@ -29,3 +29,11 @@ def logout(driver):
     time.sleep(2)
     logging.info("↩️ Logout executado.")
 
+def is_logged_in(driver):
+    try:
+        # VERIFICA ALGO QUE SÓ EXISTE QUANDO LOGADO
+        driver.find_element(By.ID, "menu-relatorios") # exemplo
+        return True
+    except:
+        return False
+

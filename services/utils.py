@@ -1,5 +1,8 @@
+import sys
 import time
 import threading
+import calendar
+import queue
 from pathlib import Path
 from datetime import datetime, timedelta
 from typing import Optional
@@ -58,24 +61,45 @@ def esperar_download(pasta: Path, nome_final: str, timeout: int = 300, estabilid
     ultimo_ok.rename(destino)
     return destino
 
-
-import threading
-
 def perguntar_com_timeout(pergunta: str, timeout: int = 15) -> str:
-    """Pergunta com timeout compatível com Windows."""
-    resposta = []
-    timer = threading.Timer(timeout, lambda: resposta.append(None))
-    timer.start()
-    try:
-        ans = input(pergunta).strip().lower()
-        resposta.append(ans)
-    except Exception:
-        resposta.append(None)
-    finally:
-        timer.cancel()
+    print(pergunta, end="", flush=True)
 
-    if not resposta or resposta[0] is None:
-        print("\n⏰ Tempo esgotado, prosseguindo automaticamente...")
-        return "n"
-    return resposta[0]
+    q = queue.Queue()
 
+    # Leitura de input em thread separada (não bloqueia o main)
+    def ler_input():
+        try:
+            ans = sys.stdin.readline().strip().lower()
+            q.put(ans)
+        except:
+            q.put(None)
+
+    t = threading.Thread(target=ler_input)
+    t.daemon = True
+    t.start()
+
+    inicio = time.time()
+
+    while time.time() - inicio < timeout:
+        try:
+            resp = q.get_nowait()  # input chegou
+            return resp
+        except queue.Empty:
+            time.sleep(0.1)
+
+    print("\n⏰ Tempo esgotado, prosseguindo automaticamente...")
+    return "n"
+
+def proxima_execucao_agendada(hora, minuto):
+    now = datetime.now()
+    agendado = now.replace(hour=hora, minute=minuto, second=0, microsecond=0)
+
+    # Se já passou do horário hoje, agenda para amanhã
+    if agendado <= now:
+        agendado += timedelta(days=1)
+
+    # Pula finais de semana
+    while agendado.weekday() >= 5:  # 5=Saturday, 6=Sunday
+        agendado += timedelta(days=1)
+
+    return agendado

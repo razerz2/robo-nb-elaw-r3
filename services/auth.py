@@ -1,6 +1,7 @@
 import time
 import logging
 from selenium.webdriver.common.by import By
+from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from config import USER, PASSWORD, URL_INICIAL, URL_LOGOUT
@@ -30,10 +31,12 @@ def logout(driver):
     logging.info("↩️ Logout executado.")
 
 def is_logged_in(driver):
+    """
+    Verifica se o usuário está logado no eLaw.
+    Retorna True se o elemento de perfil estiver visível na página.
+    """
     try:
-        # VERIFICA ALGO QUE SÓ EXISTE QUANDO LOGADO
-        driver.find_element(By.ID, "menu-relatorios") # exemplo
+        driver.find_element(By.CSS_SELECTOR, "li.profile-item .profile-name")
         return True
-    except:
+    except NoSuchElementException:
         return False
-

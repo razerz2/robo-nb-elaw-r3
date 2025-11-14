@@ -1710,3 +1710,101 @@ Symbols not available. Dumping unresolved backtrace:
 2025-11-13 23:47:03,984 [INFO] ✅ Execução OK.
 2025-11-13 23:47:09,018 [INFO] ✅ Já executado hoje. Aguardando próximo dia útil 08:00...
 2025-11-13 23:49:50,263 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-14 00:03:33,334 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-14 00:03:42,929 [INFO] 🔐 Sessão inexistente. Realizando login...
+2025-11-14 00:03:56,595 [ERROR] ❌ Erro durante a execução: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-r3\main.py", line 65, in run_once
+    relatorio_id = estado.get("relatorio_id")
+                   ^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-11-14 00:04:02,002 [ERROR] ❌ Erro na execução principal: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-r3\main.py", line 142, in main
+    run_once()
+    ~~~~~~~~^^
+  File "C:\Projetos\robo-nb-elaw-r3\main.py", line 65, in run_once
+    relatorio_id = estado.get("relatorio_id")
+                   ^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-11-14 00:04:02,003 [INFO] 🕒 Tentará novamente em 5 minutos...
+2025-11-14 00:04:14,135 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-14 00:04:34,025 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-14 00:04:37,801 [INFO] 🔐 Sessão inexistente. Realizando login...
+2025-11-14 00:04:52,065 [ERROR] ❌ Erro durante a execução: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-r3\main.py", line 65, in run_once
+    relatorio_id = estado.get("relatorio_id")
+                   ^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-11-14 00:04:57,752 [ERROR] ❌ Erro na execução principal: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-r3\main.py", line 142, in main
+    run_once()
+    ~~~~~~~~^^
+  File "C:\Projetos\robo-nb-elaw-r3\main.py", line 65, in run_once
+    relatorio_id = estado.get("relatorio_id")
+                   ^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-11-14 00:04:57,753 [INFO] 🕒 Tentará novamente em 5 minutos...
+2025-11-14 00:04:59,975 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-14 00:08:24,751 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-14 00:08:28,617 [INFO] 🔐 Sessão inexistente. Realizando login...
+2025-11-14 00:08:42,900 [ERROR] ❌ Erro durante a execução: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-r3\main.py", line 65, in run_once
+    relatorio_id = estado.get("relatorio_id")
+                   ^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-11-14 00:08:48,597 [ERROR] ❌ Erro na execução principal: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-r3\main.py", line 142, in main
+    run_once()
+    ~~~~~~~~^^
+  File "C:\Projetos\robo-nb-elaw-r3\main.py", line 65, in run_once
+    relatorio_id = estado.get("relatorio_id")
+                   ^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-11-14 00:08:48,598 [INFO] 🕒 Tentará novamente em 5 minutos...
+2025-11-14 00:11:38,007 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-14 00:12:45,459 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-14 00:12:49,284 [INFO] 🔐 Sessão inexistente. Realizando login...
+2025-11-14 00:13:04,094 [ERROR] ❌ Erro durante a execução: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-r3\main.py", line 65, in run_once
+    relatorio_id = estado.get("relatorio_id")
+                   ^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-11-14 00:13:10,881 [ERROR] ❌ Erro na execução principal: 'NoneType' object has no attribute 'get'
+Traceback (most recent call last):
+  File "C:\Projetos\robo-nb-elaw-r3\main.py", line 142, in main
+    run_once()
+    ~~~~~~~~^^
+  File "C:\Projetos\robo-nb-elaw-r3\main.py", line 65, in run_once
+    relatorio_id = estado.get("relatorio_id")
+                   ^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+2025-11-14 00:13:10,882 [INFO] 🕒 Tentará novamente em 5 minutos...
+2025-11-14 00:18:25,947 [INFO] ⏳ Fora do horário, aguardando 30 minutos para checar novamente...
+2025-11-14 00:20:24,240 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-14 00:20:30,610 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-14 00:20:34,457 [INFO] 🔐 Sessão inexistente. Realizando login...
+2025-11-14 00:20:47,738 [INFO] 🧾 Gerando relatório de processos...
+2025-11-14 00:22:47,577 [INFO] 🆔 ID: 3612809
+2025-11-14 00:22:47,578 [INFO] ⬇️ Baixando relatório...
+2025-11-14 00:28:29,504 [INFO] ✅ Execução OK.
+2025-11-14 00:28:34,744 [INFO] ✅ Já executado hoje. Aguardando próximo dia útil 08:00...
+2025-11-14 00:31:54,619 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-14 00:32:33,737 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-14 00:32:37,581 [INFO] 🔐 Sessão inexistente. Realizando login...
+2025-11-14 00:32:51,881 [INFO] 🧾 Gerando relatório de processos...
+2025-11-14 00:34:48,498 [INFO] 🆔 ID: 3612810
+2025-11-14 00:34:48,499 [INFO] ⬇️ Baixando relatório (primeira execução)...
+2025-11-14 00:35:00,000 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...
+2025-11-14 00:35:10,618 [WARNING] ⚠️ Executando fora do horário por confirmação manual do usuário.
+2025-11-14 00:35:14,442 [INFO] 🔐 Sessão inexistente. Realizando login...
+2025-11-14 00:35:27,074 [INFO] 🔁 Retomando com relatório ID salvo: 3612810
+2025-11-14 00:35:27,074 [INFO] ⬇️ Retomando download pendente do relatório...
+2025-11-14 00:41:06,882 [INFO] ✅ Execução OK.
+2025-11-14 00:41:12,129 [INFO] ✅ Já executado hoje. Aguardando próximo dia útil 08:00...
+2025-11-14 00:41:18,609 [INFO] 🧩 Execução interrompida manualmente pelo usuário. 🛑 Encerrando com segurança...

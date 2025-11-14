@@ -35,7 +35,7 @@ logger.addHandler(ch)
 
 
 def run_once():
-    estado = checkpoint_load()
+    estado = checkpoint_load()   # pode ser None
     profile_path = Path(tempfile.mkdtemp())
     driver = create_driver()
 
@@ -56,28 +56,39 @@ def run_once():
         # ===============================
         # 1) GERAR RELATÓRIO
         # ===============================
-        if not estado or estado["stage"] == "login":
-            # "login" nunca deve ser uma etapa, removemos isso
-            pass
 
-        if not estado or estado["stage"] in ["gerou_relatorio"]:
-            # se gerou e reiniciou: retomar ID
-            relatorio_id = estado.get("relatorio_id")
-            if relatorio_id:
-                logger.info(f"🔁 Retomando com relatório ID salvo: {relatorio_id}")
-            else:
-                logger.info("🧾 Gerando relatório de processos...")
-                relatorio_id = gerar_relatorio(driver)
-                logger.info(f"🆔 ID: {relatorio_id}")
-                checkpoint_save("gerou_relatorio", relatorio_id)
+        # CASO 1 -> retomando
+        if estado and estado.get("stage") == "gerou_relatorio":
+            relatorio_id = estado["relatorio_id"]  # aqui é seguro
+            logger.info(f"🔁 Retomando com relatório ID salvo: {relatorio_id}")
+
+        # CASO 2 -> começando do zero
+        else:
+            logger.info("🧾 Gerando relatório de processos...")
+            relatorio_id = gerar_relatorio(driver)
+            logger.info(f"🆔 ID: {relatorio_id}")
+            checkpoint_save("gerou_relatorio", relatorio_id)
 
         # ===============================
         # 2) BAIXAR RELATÓRIO
         # ===============================
-        if not estado or estado["stage"] == "gerou_relatorio":
-            logger.info("⬇️ Baixando relatório...")
+
+        # CASE 1 — Primeira execução do dia (estado == None)
+        if estado is None:
+            logger.info("⬇️ Baixando relatório (primeira execução)...")
             baixar_relatorio(driver, relatorio_id, FINAL_DIR, OUTPUT_NAME, INTERVALO_BAIXAR)
             checkpoint_save("baixou_relatorio", relatorio_id)
+
+        # CASE 2 — Retomando após gerar relatório (não chegou a baixar)
+        elif estado.get("stage") == "gerou_relatorio":
+            logger.info("⬇️ Retomando download pendente do relatório...")
+            baixar_relatorio(driver, relatorio_id, FINAL_DIR, OUTPUT_NAME, INTERVALO_BAIXAR)
+            checkpoint_save("baixou_relatorio", relatorio_id)
+
+        # CASE 3 — Download já estava completo
+        elif estado.get("stage") == "baixou_relatorio":
+            logger.info("📦 Download já havia sido concluído anteriormente. Ignorando etapa.")
+
 
         logger.info("✅ Execução OK.")
 
@@ -90,6 +101,7 @@ def run_once():
             logout(driver)
         except:
             pass
+
         driver.quit()
         checkpoint_clear()
 
